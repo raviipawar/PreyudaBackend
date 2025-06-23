@@ -1,0 +1,14 @@
+C:\Users\Hp\Desktop\SpringBootPractise\YogNirog\MrService\src\main\java\com\mrservice\config\AppConfig.java
+C:\Users\Hp\Desktop\SpringBootPractise\YogNirog\MrService\src\main\java\com\mrservice\config\CorsConfig.java
+C:\Users\Hp\Desktop\SpringBootPractise\YogNirog\MrService\src\main\java\com\mrservice\config\JwtUtils.java
+C:\Users\Hp\Desktop\SpringBootPractise\YogNirog\MrService\src\main\java\com\mrservice\config\WebSecurityConfig.java
+C:\Users\Hp\Desktop\SpringBootPractise\YogNirog\MrService\src\main\java\com\mrservice\controller\MrProfileController.java
+C:\Users\Hp\Desktop\SpringBootPractise\YogNirog\MrService\src\main\java\com\mrservice\entity\AuthUserResponse.java
+C:\Users\Hp\Desktop\SpringBootPractise\YogNirog\MrService\src\main\java\com\mrservice\entity\Gender.java
+C:\Users\Hp\Desktop\SpringBootPractise\YogNirog\MrService\src\main\java\com\mrservice\entity\MrProfile.java
+C:\Users\Hp\Desktop\SpringBootPractise\YogNirog\MrService\src\main\java\com\mrservice\entity\MrProfileResponse.java
+C:\Users\Hp\Desktop\SpringBootPractise\YogNirog\MrService\src\main\java\com\mrservice\entity\MrProfileUpdateRequest.java
+C:\Users\Hp\Desktop\SpringBootPractise\YogNirog\MrService\src\main\java\com\mrservice\MrServiceApplication.java
+C:\Users\Hp\Desktop\SpringBootPractise\YogNirog\MrService\src\main\java\com\mrservice\repository\MrProfileRepository.java
+C:\Users\Hp\Desktop\SpringBootPractise\YogNirog\MrService\src\main\java\com\mrservice\service\AuthServiceClient.java
+C:\Users\Hp\Desktop\SpringBootPractise\YogNirog\MrService\src\main\java\com\mrservice\service\MrProfileService.java
