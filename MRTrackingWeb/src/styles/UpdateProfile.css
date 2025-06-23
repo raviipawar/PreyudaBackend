@@ -1,0 +1,22 @@
+.update-profile-container {
+    max-width: 500px;
+    margin: auto;
+    padding: 2rem;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+  }
+  
+  .update-profile-container input {
+    display: block;
+    width: 100%;
+    margin-bottom: 1rem;
+    padding: 0.75rem;
+    font-size: 16px;
+  }
+  
+  .update-profile-container button {
+    padding: 0.75rem 1.5rem;
+    font-size: 16px;
+    cursor: pointer;
+  }
+  
